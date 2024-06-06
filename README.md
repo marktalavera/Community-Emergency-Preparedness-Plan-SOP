@@ -94,12 +94,11 @@ This SOP applies to all individuals and organizations involved in emergency mana
 
 6.1 Appendices:
 
-- Appendix A: Risk Assessment Template
-- Appendix B: Community Survey Template
-- Appendix C: Emergency Contact List Template
-- Appendix D: Training Session Outline
-- Appendix E: Drill Evaluation Form
-
+- Risk Assessment Template: Provides a standardized format for conducting risk assessments.
+- Community Survey Template: Facilitates community feedback and preparedness assessment.
+- Emergency Contact List Template: Ensures critical contacts are documented and accessible.
+- Training Session Outline: Guides the structure of training sessions.
+- Drill Evaluation Form: Standardizes the evaluation of drills to measure effectiveness and identify areas for improvement.
 
 
 
